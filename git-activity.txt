@@ -1,4 +1,4 @@
-This is my first Git activity.
+This is my --- THIRD --- Git activity.
 
 --- Git Activity 3 ---
 Repository Creation and Basic Git Commands 
